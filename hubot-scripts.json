@@ -1,1 +1,8 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+ "redis-brain.coffee", 
+ "shipit.coffee",
+ "achievement_unlocked.coffee", 
+ "ackbar.coffee", 
+ "adult.coffee",
+ "advice.coffee"
+]
