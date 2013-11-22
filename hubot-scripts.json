@@ -5,5 +5,10 @@
  "ackbar.coffee", 
  "adult.coffee",
  "advice.coffee",
- "animal.coffee"
+ "animal.coffee",
+ "applause.coffee",
+ "ascii.coffee",
+ "availability.coffee",
+ "aww.coffee",
+ "pomodoro.coffee"
 ]
