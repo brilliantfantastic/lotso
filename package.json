@@ -1,5 +1,5 @@
 {
-  "name": "hosted-hubot",
+  "name": "Lotso",
   "version": "2.6.3",
 
   "author": "GitHub Inc.",
@@ -11,7 +11,7 @@
     "bot"
   ],
 
-  "description": "A simple helpful robot for your Company",
+  "description": "A hubot for all BF rooms",
 
   "licenses": [{
     "type": "MIT",
@@ -23,15 +23,14 @@
     "url": "https://github.com/github/hubot.git"
   },
 
+  "engines": {
+    "node": "4.8.4"
+  },
+
   "dependencies": {
     "hubot":         ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "htmlparser":    "1.7.6",
     "soupselect":    "0.2.0"
-  },
-
-  "engines": {
-    "node": ">= 0.8.x",
-    "npm":  ">= 1.1.x"
   }
 }
